@@ -24,4 +24,4 @@ This is a sample command to use the tool:
 
 ## Sample Output
 
-put sample output here...
+![Sample Output](test1.png?raw=true "Sample Output")
