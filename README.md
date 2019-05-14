@@ -25,7 +25,7 @@ NNsketcher is written for python 3.
 
 This is a sample command to use the tool:
 
-    python3 nnsketcher.py | dot -Tpng > test1.png
+    python3 nnsketcher.py --input 5 --output 3 --hidden 8 --layers 10 | dot -Tpng > test1.png
 
 ## Sample Output
 
